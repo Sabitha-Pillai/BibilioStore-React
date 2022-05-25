@@ -102,7 +102,7 @@ const Footer = () => {
                   </b>
                 </li>
                 <li className="list-inline-item">
-                  <a className="btn-floating" href="http://github.com/Sabitha-Pillai">
+                  <a className="btn-floating" href="https://github.com/Sabitha-Pillai/BibilioStore-React">
                   <b>
                     &nbsp;
                     <BsGithub />
